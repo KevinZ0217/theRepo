@@ -3,8 +3,6 @@
  * 
  */
 
-/* DO NOT CHANGE:  This file is used in evaluation */
-
 /**
  * The MyLib class is a direct port of mylib.c to java.
  * As you already know in java when you pass literal strings like
