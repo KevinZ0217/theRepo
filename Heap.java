@@ -1,10 +1,6 @@
 /*****************************************************************************
  * Name: Jiaqi Zhang
- * PID: A16418300
- * Course: CSE 12, FA21 
  * Date: December 9th, 2021 
- * USER:cs12fa21fk 
- *                                Assignment 10 
  * File Name:   Heap.java 
  * Description: This program creates a array with the student name and ID that  
  *             can do the operations such as remove or insert.
