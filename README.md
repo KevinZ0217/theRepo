@@ -1,2 +1,2 @@
 # theRepo
-#An array-based polymorphic generic container. 
+#An array-based polymorphic generic heap structure container
