@@ -1,10 +1,6 @@
 /******************************************************************************
  * Name: Jiaqi Zhang
- * PID: A16418300
- * Course: CSE 12, FA21 
  * Date: December 9, 2021 
- * USER:cs12fa21fk 
- *                                Assignment 10 
  * File Name:   Driver.java 
  * Description: This file has the elements that are contained in the
  *              Heap, and define the properties or them. 
